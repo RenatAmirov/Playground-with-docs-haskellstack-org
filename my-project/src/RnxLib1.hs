@@ -1,4 +1,4 @@
-module Lib
+module RnxLib1
     ( someFunc
     ) where
 
